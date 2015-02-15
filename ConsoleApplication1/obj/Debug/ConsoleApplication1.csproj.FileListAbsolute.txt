@@ -1,0 +1,12 @@
+c:\users\dreck410\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\dreck410\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\dreck410\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\dreck410\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\dreck410\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\dreck410\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Daniel\OneDrive\Junior 2nd\Security\inclass\Log_Info_Logon_search\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Daniel\OneDrive\Junior 2nd\Security\inclass\Log_Info_Logon_search\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Daniel\OneDrive\Junior 2nd\Security\inclass\Log_Info_Logon_search\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Daniel\OneDrive\Junior 2nd\Security\inclass\Log_Info_Logon_search\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Daniel\OneDrive\Junior 2nd\Security\inclass\Log_Info_Logon_search\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Daniel\OneDrive\Junior 2nd\Security\inclass\Log_Info_Logon_search\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
